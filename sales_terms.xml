@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2023-01-08T03:08:00+07:00">
+    <shop>
+        <name>SPDUpay</name>
+        <company>ИП Долгов Дмитрий Алексеевич</company>
+        <url>https://spdupay.ru</url>
+        <platform>DigiSeller</platform>
+        <version>1.0</version>
+        <agency>SPDUpay</agency>
+        <email>business@nyorf.com</email>
+        <offers>
+            <offer id="apple-giftcard-500-rub">                
+                <url>https://spdupay.ru/detail/3558153</url>
+                <price>700</price>
+                <oldprice>900</oldprice>
+                <enable_auto_discounts>true</enable_auto_discounts>
+                <currencyId>RUR</currencyId>               
+                <vat>NO_VAT</vat>               
+				<downloadable>true</downloadable>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
