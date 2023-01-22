@@ -11,12 +11,21 @@
         <offers>
             <offer id="apple-giftcard-500-rub">                
                 <url>https://spdupay.ru/detail/3558153</url>
-                <price>700</price>
-                <oldprice>900</oldprice>
+                <price>699</price>
+                <oldprice>899</oldprice>
                 <enable_auto_discounts>true</enable_auto_discounts>
                 <currencyId>RUR</currencyId>               
                 <vat>NO_VAT</vat>               
-				<downloadable>true</downloadable>
+		<downloadable>true</downloadable>
+            </offer>
+            <offer id="apple-giftcard-750-rub">                
+                <url>https://spdupay.ru/detail/3611546</url>
+                <price>1049</price>
+                <oldprice>1399</oldprice>
+                <enable_auto_discounts>true</enable_auto_discounts>
+                <currencyId>RUR</currencyId>               
+                <vat>NO_VAT</vat>               
+		<downloadable>true</downloadable>
             </offer>
         </offers>
     </shop>
