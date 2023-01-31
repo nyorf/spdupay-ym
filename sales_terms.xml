@@ -17,6 +17,7 @@
 				<currencyId>RUR</currencyId>               
 				<vat>NO_VAT</vat>               
 				<downloadable>true</downloadable>
+				<available>true</available>
 			</offer>
 			<offer id="apple-giftcard-750-rub">                
 				<url>https://spdupay.ru/detail/3611546</url>
@@ -26,6 +27,7 @@
 				<currencyId>RUR</currencyId>               
 				<vat>NO_VAT</vat>               
 				<downloadable>true</downloadable>
+				<available>true</available>
 			</offer>
 			<offer id="apple-giftcard-1000-rub">                
 				<url>https://spdupay.ru/detail/3558156</url>
@@ -35,6 +37,7 @@
 				<currencyId>RUR</currencyId>               
 				<vat>NO_VAT</vat>               
 				<downloadable>true</downloadable>
+				<available>true</available>
 			</offer>
 			<offer id="apple-giftcard-1500-rub">                
 				<url>https://spdupay.ru/detail/3558160</url>
@@ -44,6 +47,7 @@
 				<currencyId>RUR</currencyId>               
 				<vat>NO_VAT</vat>               
 				<downloadable>true</downloadable>
+				<available>true</available>
 			</offer>
 			<offer id="apple-giftcard-2000-rub">                
 				<url>https://spdupay.ru/detail/3558164</url>
@@ -53,6 +57,7 @@
 				<currencyId>RUR</currencyId>               
 				<vat>NO_VAT</vat>               
 				<downloadable>true</downloadable>
+				<available>true</available>
 			</offer>
 			<offer id="apple-giftcard-3000-rub">                
 				<url>https://spdupay.ru/detail/3562727</url>
@@ -62,6 +67,7 @@
 				<currencyId>RUR</currencyId>               
 				<vat>NO_VAT</vat>               
 				<downloadable>true</downloadable>
+				<available>true</available>
 			</offer>
 		</offers>
 	</shop>
