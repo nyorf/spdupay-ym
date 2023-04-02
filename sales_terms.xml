@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2023-02-07T00:46:00+07:00">
+<yml_catalog date="2023-04-03T00:36:00+03:00">
 	<shop>
 		<name>SPDUpay</name>
 		<company>ИП Долгов Дмитрий Алексеевич</company>
@@ -14,10 +14,9 @@
 				<price>699</price>
 				<oldprice>899</oldprice>
 				<enable_auto_discounts>true</enable_auto_discounts>
-				<currencyId>RUR</currencyId>
+				<currencyId>RUB</currencyId>
 				<vat>NO_VAT</vat>
 				<delivery>false</delivery>
-				<pickup>false</pickup>
 				<downloadable>true</downloadable>
 				<available>true</available>
 			</offer>
@@ -26,10 +25,9 @@
 				<price>1049</price>
 				<oldprice>1399</oldprice>
 				<enable_auto_discounts>true</enable_auto_discounts>
-				<currencyId>RUR</currencyId>
+				<currencyId>RUB</currencyId>
 				<vat>NO_VAT</vat>
 				<delivery>false</delivery>
-				<pickup>false</pickup>
 				<downloadable>true</downloadable>
 				<available>true</available>
 			</offer>
@@ -38,10 +36,9 @@
 				<price>1399</price>
 				<oldprice>1649</oldprice>
 				<enable_auto_discounts>true</enable_auto_discounts>
-				<currencyId>RUR</currencyId>
+				<currencyId>RUB</currencyId>
 				<vat>NO_VAT</vat>
 				<delivery>false</delivery>
-				<pickup>false</pickup>
 				<downloadable>true</downloadable>
 				<available>true</available>
 			</offer>
@@ -50,10 +47,9 @@
 				<price>2049</price>
 				<oldprice>2399</oldprice>
 				<enable_auto_discounts>true</enable_auto_discounts>
-				<currencyId>RUR</currencyId>
+				<currencyId>RUB</currencyId>
 				<vat>NO_VAT</vat>
 				<delivery>false</delivery>
-				<pickup>false</pickup>
 				<downloadable>true</downloadable>
 				<available>true</available>
 			</offer>
@@ -62,10 +58,9 @@
 				<price>2699</price>
 				<oldprice>3099</oldprice>
 				<enable_auto_discounts>true</enable_auto_discounts>
-				<currencyId>RUR</currencyId>
+				<currencyId>RUB</currencyId>
 				<vat>NO_VAT</vat>
 				<delivery>false</delivery>
-				<pickup>false</pickup>
 				<downloadable>true</downloadable>
 				<available>true</available>
 			</offer>
@@ -74,10 +69,9 @@
 				<price>4059</price>
 				<oldprice>4499</oldprice>
 				<enable_auto_discounts>true</enable_auto_discounts>
-				<currencyId>RUR</currencyId>
+				<currencyId>RUB</currencyId>
 				<vat>NO_VAT</vat>
 				<delivery>false</delivery>
-				<pickup>false</pickup>
 				<downloadable>true</downloadable>
 				<available>true</available>
 			</offer>
