@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2023-02-07T00:46:00+07:00">
+<yml_catalog date="2023-06-23T23:44:00+07:00">
 	<shop>
 		<name>WisePay</name>
 		<company>ИП Долгов Дмитрий Алексеевич</company>
@@ -17,6 +17,8 @@
 				<currencyId>RUR</currencyId>
 				<vat>NO_VAT</vat>
 				<downloadable>true</downloadable>
+				<delivery>false</delivery>
+				<pickup>false</pickup>
 				<available>true</available>
 			</offer>
 			<offer id="apple-giftcard-750-rub">
@@ -27,6 +29,8 @@
 				<currencyId>RUR</currencyId>
 				<vat>NO_VAT</vat>
 				<downloadable>true</downloadable>
+				<delivery>false</delivery>
+				<pickup>false</pickup>
 				<available>true</available>
 			</offer>
 			<offer id="apple-giftcard-1000-rub">
@@ -37,6 +41,8 @@
 				<currencyId>RUR</currencyId>
 				<vat>NO_VAT</vat>
 				<downloadable>true</downloadable>
+				<delivery>false</delivery>
+				<pickup>false</pickup>
 				<available>true</available>
 			</offer>
 			<offer id="apple-giftcard-1500-rub">
@@ -47,6 +53,8 @@
 				<currencyId>RUR</currencyId>
 				<vat>NO_VAT</vat>
 				<downloadable>true</downloadable>
+				<delivery>false</delivery>
+				<pickup>false</pickup>
 				<available>true</available>
 			</offer>
 			<offer id="apple-giftcard-2000-rub">
@@ -57,6 +65,8 @@
 				<currencyId>RUR</currencyId>
 				<vat>NO_VAT</vat>
 				<downloadable>true</downloadable>
+				<delivery>false</delivery>
+				<pickup>false</pickup>
 				<available>true</available>
 			</offer>
 			<offer id="apple-giftcard-3000-rub">
@@ -67,6 +77,8 @@
 				<currencyId>RUR</currencyId>
 				<vat>NO_VAT</vat>
 				<downloadable>true</downloadable>
+				<delivery>false</delivery>
+				<pickup>false</pickup>
 				<available>true</available>
 			</offer>
 		</offers>
