@@ -16,8 +16,6 @@
 				<enable_auto_discounts>true</enable_auto_discounts>
 				<currencyId>RUR</currencyId>
 				<vat>NO_VAT</vat>
-				<delivery>false</delivery>
-				<pickup>false</pickup>
 				<downloadable>true</downloadable>
 				<available>true</available>
 			</offer>
@@ -28,8 +26,6 @@
 				<enable_auto_discounts>true</enable_auto_discounts>
 				<currencyId>RUR</currencyId>
 				<vat>NO_VAT</vat>
-				<delivery>false</delivery>
-				<pickup>false</pickup>
 				<downloadable>true</downloadable>
 				<available>true</available>
 			</offer>
@@ -40,8 +36,6 @@
 				<enable_auto_discounts>true</enable_auto_discounts>
 				<currencyId>RUR</currencyId>
 				<vat>NO_VAT</vat>
-				<delivery>false</delivery>
-				<pickup>false</pickup>
 				<downloadable>true</downloadable>
 				<available>true</available>
 			</offer>
@@ -52,8 +46,6 @@
 				<enable_auto_discounts>true</enable_auto_discounts>
 				<currencyId>RUR</currencyId>
 				<vat>NO_VAT</vat>
-				<delivery>false</delivery>
-				<pickup>false</pickup>
 				<downloadable>true</downloadable>
 				<available>true</available>
 			</offer>
@@ -64,8 +56,6 @@
 				<enable_auto_discounts>true</enable_auto_discounts>
 				<currencyId>RUR</currencyId>
 				<vat>NO_VAT</vat>
-				<delivery>false</delivery>
-				<pickup>false</pickup>
 				<downloadable>true</downloadable>
 				<available>true</available>
 			</offer>
@@ -76,8 +66,6 @@
 				<enable_auto_discounts>true</enable_auto_discounts>
 				<currencyId>RUR</currencyId>
 				<vat>NO_VAT</vat>
-				<delivery>false</delivery>
-				<pickup>false</pickup>
 				<downloadable>true</downloadable>
 				<available>true</available>
 			</offer>
