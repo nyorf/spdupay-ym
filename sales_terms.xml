@@ -4,18 +4,13 @@
 		<name>WisePay</name>
 		<company>ИП Долгов Дмитрий Алексеевич</company>
 		<url>https://wisepay.ru</url>
-		<platform>DigiSeller</platform>
+		<platform>Custom</platform>
 		<version>1.0</version>
 		<agency>WisePay</agency>
 		<email>business@nyorf.com</email>
 		<offers>
 			<offer id="apple-giftcard-500-rub">
 				<url>https://spdupay.ru/detail/3558153</url>
-				<price>699</price>
-				<oldprice>899</oldprice>
-				<enable_auto_discounts>true</enable_auto_discounts>
-				<currencyId>RUR</currencyId>
-				<vat>NO_VAT</vat>
 				<downloadable>true</downloadable>
 				<delivery>false</delivery>
 				<pickup>false</pickup>
@@ -23,11 +18,6 @@
 			</offer>
 			<offer id="apple-giftcard-750-rub">
 				<url>https://spdupay.ru/detail/3611546</url>
-				<price>1049</price>
-				<oldprice>1399</oldprice>
-				<enable_auto_discounts>true</enable_auto_discounts>
-				<currencyId>RUR</currencyId>
-				<vat>NO_VAT</vat>
 				<downloadable>true</downloadable>
 				<delivery>false</delivery>
 				<pickup>false</pickup>
@@ -35,11 +25,6 @@
 			</offer>
 			<offer id="apple-giftcard-1000-rub">
 				<url>https://spdupay.ru/detail/3558156</url>
-				<price>1399</price>
-				<oldprice>1649</oldprice>
-				<enable_auto_discounts>true</enable_auto_discounts>
-				<currencyId>RUR</currencyId>
-				<vat>NO_VAT</vat>
 				<downloadable>true</downloadable>
 				<delivery>false</delivery>
 				<pickup>false</pickup>
@@ -47,11 +32,6 @@
 			</offer>
 			<offer id="apple-giftcard-1500-rub">
 				<url>https://spdupay.ru/detail/3558160</url>
-				<price>2049</price>
-				<oldprice>2399</oldprice>
-				<enable_auto_discounts>true</enable_auto_discounts>
-				<currencyId>RUR</currencyId>
-				<vat>NO_VAT</vat>
 				<downloadable>true</downloadable>
 				<delivery>false</delivery>
 				<pickup>false</pickup>
@@ -59,11 +39,6 @@
 			</offer>
 			<offer id="apple-giftcard-2000-rub">
 				<url>https://spdupay.ru/detail/3558164</url>
-				<price>2699</price>
-				<oldprice>3099</oldprice>
-				<enable_auto_discounts>true</enable_auto_discounts>
-				<currencyId>RUR</currencyId>
-				<vat>NO_VAT</vat>
 				<downloadable>true</downloadable>
 				<delivery>false</delivery>
 				<pickup>false</pickup>
@@ -71,11 +46,6 @@
 			</offer>
 			<offer id="apple-giftcard-3000-rub">
 				<url>https://spdupay.ru/detail/3562727</url>
-				<price>4059</price>
-				<oldprice>4499</oldprice>
-				<enable_auto_discounts>true</enable_auto_discounts>
-				<currencyId>RUR</currencyId>
-				<vat>NO_VAT</vat>
 				<downloadable>true</downloadable>
 				<delivery>false</delivery>
 				<pickup>false</pickup>
