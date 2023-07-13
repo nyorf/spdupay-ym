@@ -10,42 +10,56 @@
 		<email>business@nyorf.com</email>
 		<offers>
 			<offer id="apple-giftcard-500-rub">
-				<url>https://spdupay.ru/detail/3558153</url>
+				<url>https://wisepay.ru</url>
 				<downloadable>true</downloadable>
 				<delivery>false</delivery>
 				<pickup>false</pickup>
 				<available>true</available>
 			</offer>
 			<offer id="apple-giftcard-750-rub">
-				<url>https://spdupay.ru/detail/3611546</url>
+				<url>https://wisepay.ru</url>
 				<downloadable>true</downloadable>
 				<delivery>false</delivery>
 				<pickup>false</pickup>
 				<available>true</available>
 			</offer>
 			<offer id="apple-giftcard-1000-rub">
-				<url>https://spdupay.ru/detail/3558156</url>
+				<url>https://wisepay.ru</url>
 				<downloadable>true</downloadable>
 				<delivery>false</delivery>
 				<pickup>false</pickup>
 				<available>true</available>
 			</offer>
 			<offer id="apple-giftcard-1500-rub">
-				<url>https://spdupay.ru/detail/3558160</url>
+				<url>https://wisepay.ru</url>
 				<downloadable>true</downloadable>
 				<delivery>false</delivery>
 				<pickup>false</pickup>
 				<available>true</available>
 			</offer>
 			<offer id="apple-giftcard-2000-rub">
-				<url>https://spdupay.ru/detail/3558164</url>
+				<url>https://wisepay.ru</url>
 				<downloadable>true</downloadable>
 				<delivery>false</delivery>
 				<pickup>false</pickup>
 				<available>true</available>
 			</offer>
 			<offer id="apple-giftcard-3000-rub">
-				<url>https://spdupay.ru/detail/3562727</url>
+				<url>https://wisepay.ru</url>
+				<downloadable>true</downloadable>
+				<delivery>false</delivery>
+				<pickup>false</pickup>
+				<available>true</available>
+			</offer>
+			<offer id="apple-giftcard-5000-rub">
+				<url>https://wisepay.ru</url>
+				<downloadable>true</downloadable>
+				<delivery>false</delivery>
+				<pickup>false</pickup>
+				<available>true</available>
+			</offer>
+			<offer id="apple-giftcard-9000-rub">
+				<url>https://wisepay.ru</url>
 				<downloadable>true</downloadable>
 				<delivery>false</delivery>
 				<pickup>false</pickup>
