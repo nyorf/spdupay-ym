@@ -72,6 +72,20 @@
 				<pickup>false</pickup>
 				<available>true</available>
 			</offer>
+			<offer id="nintendo-eshop-card-50-usd-nintendo-eshop-north-america">
+				<url>https://wisepay.ru</url>
+				<downloadable>true</downloadable>
+				<delivery>false</delivery>
+				<pickup>false</pickup>
+				<available>true</available>
+			</offer>
+			<offer id="nintendo-eshop-card-10-usd-nintendo-eshop-north-america">
+				<url>https://wisepay.ru</url>
+				<downloadable>true</downloadable>
+				<delivery>false</delivery>
+				<pickup>false</pickup>
+				<available>true</available>
+			</offer>
 		</offers>
 	</shop>
 </yml_catalog>
