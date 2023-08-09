@@ -86,6 +86,13 @@
 				<pickup>false</pickup>
 				<available>true</available>
 			</offer>
+			<offer id="nintendo-eshop-card-key-nintendo-eshop-north-america-25-usd">
+				<url>https://wisepay.ru</url>
+				<downloadable>true</downloadable>
+				<delivery>false</delivery>
+				<pickup>false</pickup>
+				<available>true</available>
+			</offer>
 		</offers>
 	</shop>
 </yml_catalog>
